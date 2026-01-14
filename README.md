@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rafael, um estudante de tecnologia
 
-- 🔭 Atualmente não trabalho na área
-- 🌱 Estou focado em aprender angular
+- 🔭 Estagiário de TI
+- 🌱 Focado em me aperfeiçoar em Java
 - 😄 Pronouns: Ele/Dele
 ##
 <div>

@@ -1,9 +1,10 @@
-## Olá! Eu sou o Rafael, um estudante de tecnologia
+## Olá! Eu sou o Rafael 👋
 
-- 🔭 Estagiário de TI
-- 🌱 Focado em me aperfeiçoar em Java
-- 😄 Pronouns: Ele/Dele
-##
+💻 Estagiário de TI com foco em suporte técnico, infraestrutura e desenvolvimento
+🎓 Estudante de Ciência da Computação
+🌱 Atualmente aprofundando conhecimentos em Java, redes e infraestrutura de TI
+🚀 Sempre buscando evolução profissional e prática na área de tecnologia
+
 <div>
 
 ## Minhas principais tecnologias:
@@ -14,11 +15,11 @@
 
 <div style="display: inline_block"><br>
   
-  <img aling="center" alt="Rafael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img aling="center" alt="Rafael-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img aling="center" alt="Rafael-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img aling="center" alt="Rafael-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
-  <img aling="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Rafael-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Rafael-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Rafael-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
           
 </div>
 

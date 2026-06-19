@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Rafael 👋</h1>
 
 <p align="center">
-💻 Estagiário de TI • Suporte Técnico • Service Desk • Infraestrutura
+💻 Desenvolvedor Java • APIs REST • SQL • Spring Boot
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 - 💼 Atualmente atuando como Estagiário de TI
 - 🖥️ Experiência com suporte técnico, hardware e software
-- 🌐 Estudando redes, infraestrutura e desenvolvimento Java
+- 🌐 Estudando Java, SQL e APIs REST
 - 📚 Sempre buscando aprendizado e evolução profissional
-- 🤝 Facilidade com atendimento ao usuário e trabalho em equipe
+- 🤝 Facilidade com pensamento lógico e trabalho em equipe
 
 ---
 
@@ -48,7 +48,7 @@
 - 🛠️ Projetos em Java
 - 🌐 Estudos sobre redes e infraestrutura
 - ⚙️ Exercícios práticos de lógica e programação
-- 💻 Aprendizados voltados para suporte técnico e tecnologia
+- 💻 Aprendizados voltados para Back-end
 
 ---
 
